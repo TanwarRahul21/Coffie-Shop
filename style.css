@@ -11,6 +11,11 @@
     --glass-bg: rgba(10, 10, 10, 0.6);
     --glass-border: rgba(255, 255, 255, 0.05);
 }
+.nav-logo {
+  height: 40px;
+  width: auto;
+  object-fit: contain;
+}
 
 body.light-mode {
     --bg-dark: #fafafa;
